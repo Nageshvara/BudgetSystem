@@ -1,0 +1,21 @@
+[
+    {
+      "name": "CSBS",
+      "expname": "Student Welfare",
+      "expamnt": 1000,
+      "checkbox": true
+    },
+    {
+      "name": "CSBS",
+      "expname": "Employee Salaries",
+      "expamnt": 150000,
+      "checkbox": false
+    },
+    {
+      "name": "CSBS",
+      "expname": "Infrastructure",
+      "expamnt": 20000,
+      "checkbox": true
+    }
+  ]
+  
