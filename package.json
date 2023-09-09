@@ -1,7 +1,6 @@
 {
   "name": "mernfinalproject",
   "version": "0.1.0",
-  "homepage": "https://nageshvara.github.io/BudgetSystem",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
