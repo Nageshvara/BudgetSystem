@@ -13,7 +13,7 @@ function header() {
       <div className="row vh-md-100">
         <div className="col-md-8 col-sm-10 col-12 mx-auto my-auto text-center">
           <h1 className="heading-black text-capitalize">
-            CSBS funds simplified
+            CSBS Funds simplified
           </h1>
           <p className="lead py-3">
             FTCS is your go-to platform for simplifying CSBS fund management.
